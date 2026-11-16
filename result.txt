@@ -1,0 +1,11 @@
+pygame 2.6.1 (SDL 2.28.4, Python 3.13.0)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+PASS - TC1 frame1 v=1 y=301
+PASS - TC1 frame2 v=2 y=303
+PASS - TC2a ground collision
+PASS - TC2b v=-9 y=-4 top exit
+PASS - TC3 key ignored v=1 y=301
+PASS - TC4a v=-9 y=291
+PASS - TC4b pipe passed score=1
+
+ALL TESTS PASSED
